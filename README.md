@@ -1,0 +1,2 @@
+# TenhashCrypto
+Cryptocurrency of Tenhash
